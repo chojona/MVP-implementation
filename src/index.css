@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Remove default browser margin around the page */
+body {
+  margin: 0;
+}
